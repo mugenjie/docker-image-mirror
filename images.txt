@@ -1,4 +1,3 @@
 youshandefeiyang/php-env:arm64
-youshandefeiyang/php-env
 youshandefeiyang/allinone
 nginx:latest
